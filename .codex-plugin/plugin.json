@@ -1,6 +1,6 @@
 {
   "name": "oi-owarasero",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "止まった場面を責めずに振り返り、見えていなかった前提と次の一歩を見つける対話型スキル。",
   "author": {
     "name": "nwiizo",
@@ -11,9 +11,9 @@
   "license": "MIT",
   "skills": "./skills/",
   "interface": {
-    "displayName": "おい、とりあえず終わらせろ",
+    "displayName": "oi-owarasero",
     "shortDescription": "止まった場面を振り返り、次の一歩を選ぶ",
-    "longDescription": "書籍『おい、とりあえず終わらせろ』の5ステップをもとに、仕事・学習・家事・個人制作などで止まった場面を責めずに振り返り、次に試す一歩を自分で選ぶための対話型スキルです。",
+    "longDescription": "仕事・学習・家事・個人制作などで止まった場面を責めずに振り返り、5ステップを手がかりに、次に試す一歩を自分で選ぶための対話型スキルです。",
     "developerName": "nwiizo",
     "category": "Productivity",
     "capabilities": ["Interactive"],
